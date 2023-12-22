@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lab11"
+    namespace = "com.example.lab11sqlite"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.lab11"
+        applicationId = "com.example.lab11sqlite"
         minSdk = 30
         targetSdk = 33
         versionCode = 1
